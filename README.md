@@ -20,22 +20,21 @@ OBS: A galeria é responsiva, então a aparência pode variar dependendo do disp
 
 ---
 
-📦 Instalação
+## 📦 Instalação
 
 Clone o repositório e abra no navegador:
 
+```bash
 git clone https://github.com/thebiancascript/fotografias.git
 cd fotografias
-
-----
-
 🧪 Desenvolvimento
-
 Como é um projeto front-end puro, basta abrir index.html no navegador para ver a galeria funcionando.
 
 💡 Recomenda-se usar navegadores atualizados, como Chrome, Edge ou Firefox, para melhor performance.
 
 🛠️ Estrutura de Diretórios
+text
+Copy code
 fotografias/
 ├── assets/           – Imagens e recursos estáticos
 ├── fotos.html        – Página da galeria de imagens
@@ -44,14 +43,9 @@ fotografias/
 ├── bio.html          – Página de biografia
 ├── script.js         – Arquivo JavaScript para interatividade
 └── styles.css        – Arquivo CSS principal
-
-----
-
 🌐 Deploy
-
 A aplicação está online no Vercel:
-
-🔗 Ver site
+Ver site
 
 📸 Capturas de Tela
 Página inicial da galeria
@@ -60,10 +54,7 @@ Página de detalhes ou destaque das imagens
 
 Página de contato / biografia
 
-----
-
 ⭐ Funcionalidades
-
 Exibição de imagens de forma organizada e responsiva.
 
 Modal ou destaque de imagens ao clicar.
@@ -74,18 +65,17 @@ Compatível com desktops, notebooks e dispositivos móveis.
 
 Estrutura modular para fácil manutenção.
 
-
----
-
-
-💻 Sobre a Desenvolvedora!
-
-Bianca Sobral – Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedora Front-end
+💻 Sobre a Desenvolvedora
+Bianca Sobral
+Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedora Front-end
 
 Apaixonada por criar interfaces limpas, interativas e funcionais, com foco em UI/UX e soluções web modernas.
 
 🌐 GitHub
 
-💼 LinkedIn (https://www.linkedin.com/in/bsobral0327/)
+💼 LinkedIn
 
 📧 E-mail
+
+markdown
+Copy code
