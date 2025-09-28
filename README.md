@@ -58,7 +58,7 @@ Uso de eventos para adicionar interatividade (como carregar mais imagens ao clic
  🌐 Deploy
 A aplicação está online no Vercel:
 
-🔗 [Ver site no Vercel](https://fotografias-git-main-bianca-sobrals-projects.vercel.app)
+🔗[Ver site no Vercel](https://fotografias-git-main-bianca-sobrals-projects.vercel.app)
 
 
 ⭐ Funcionalidades
