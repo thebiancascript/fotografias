@@ -38,18 +38,19 @@ fotografias/
 ├── script.js – Arquivo JavaScript para interatividade
 └── styles.css – Arquivo CSS principal
 
+yaml
+Copy code
+
 ---
 
 ### O que foi praticado
 
 - **HTML**  
-  - Criação de estrutura semântica com `<nav>` e `<section>`
-    
+  - Criação de estrutura semântica com `<nav>` e `<section>`  
 - **CSS**  
   - Layouts responsivos com Grid e Flexbox  
   - Efeitos dinâmicos com pseudo-classes (`:hover`)  
-  - Media queries para adaptar o design
-    
+  - Media queries para adaptar o design  
 - **JavaScript**  
   - Manipulação do DOM para adicionar/remover elementos  
   - Eventos para interatividade (ex: carregar mais imagens ao clicar)  
