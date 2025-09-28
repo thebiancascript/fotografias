@@ -1,4 +1,5 @@
-FOTOGRAFIAS 📸
+# **FOTOGRAFIAS** 📸
+
 
 Uma galeria de imagens interativa, desenvolvida com HTML, CSS e JavaScript, focada em design minimalista, responsivo e experiência do usuário.
 
