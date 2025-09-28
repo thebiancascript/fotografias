@@ -23,7 +23,8 @@ A parte responsiva ainda não está totalmente implementada; inicialmente, o foc
 
 ## 📦 Sobre o projeto
 
-```bash- index.html para a estrutura da página.
+```bash
+- index.html para a estrutura da página.
 - styles.css para a estilização.
 - script.js para o comportamento dinâmico.
 
