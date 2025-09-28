@@ -5,76 +5,74 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Vercel](https://img.shields.io/badge/deploy-vercel-000?style=flat&logo=vercel)
 
-Uma galeria de imagens interativa, desenvolvida com HTML, CSS e JavaScript.
-Este mini projeto foi criado por mim, inspirado nas instruções do Codente.io, com implementações do meu gosto e melhorias personalizadas para tornar a interface mais intuitiva, agradável e fácil de usar.
-O projeto se destaca pela experiência visual impactante, com cores vibrantes, efeitos de hover suaves e uma estrutura modular que facilita futuras atualizações. Utilizei meus conhecimentos e minha personalidade para dar vida ao visual do site, exibindo fotografias que foram tiradas por mim.
-A parte responsiva ainda não está totalmente implementada; inicialmente, o foco foi garantir que a versão desktop funcionasse corretamente e avaliar como o layout se comportaria em diferentes tamanhos de tela.
+Uma galeria de imagens interativa, desenvolvida com **HTML, CSS e JavaScript**.  
+Este mini projeto foi criado por mim, inspirado nas instruções do **Codente.io**, com implementações e melhorias personalizadas para tornar a interface mais **intuitiva, agradável e fácil de usar**.  
+O projeto se destaca pela **experiência visual impactante**, com cores vibrantes, efeitos de hover suaves e uma **estrutura modular** que facilita futuras atualizações. Utilizei meus conhecimentos e minha personalidade para dar vida ao visual do site, exibindo fotografias tiradas por mim.  
+A parte responsiva ainda não está totalmente implementada; inicialmente, o foco foi garantir que a versão **desktop** funcionasse corretamente e avaliar como o layout se comportaria em diferentes tamanhos de tela.
 
 ---
 
 ## 🚀 Tecnologias Utilizadas
 
-- **HTML5** – Estrutura semântica e organizada para melhor acessibilidade.  
-- **CSS3** – Estilização responsiva e visual clean.  
-- **JavaScript** – Interatividade, modais e efeitos de destaque nas imagens.  
-- **Vercel** – Deploy contínuo da aplicação online.  
+- **HTML5** – Estrutura semântica e organizada para melhor acessibilidade  
+- **CSS3** – Estilização responsiva e visual clean  
+- **JavaScript** – Interatividade, modais e efeitos de destaque nas imagens  
+- **Vercel** – Deploy contínuo da aplicação online  
 
 ---
 
-## 📦 Sobre o projeto
+## 📦 Sobre o Projeto
 
+- **index.html** – Estrutura da página  
+- **styles.css** – Estilização do site  
+- **script.js** – Interatividade e comportamento dinâmico  
 
-- index.html para a estrutura da página.
-- styles.css para a estilização.
-- script.js para o comportamento dinâmico.
-
-🛠️ Estrutura de Diretórios
+### 🛠️ Estrutura de Diretórios
 
 fotografias/
-├── assets/           – Imagens e recursos estáticos
-├── fotos.html        – Página da galeria de imagens
-├── index.html        – Página inicial
-├── contato.html      – Página de contato
-├── bio.html          – Página de biografia
-├── script.js         – Arquivo JavaScript para interatividade
-└── styles.css        – Arquivo CSS principal
+├── assets/ – Imagens e recursos estáticos
+├── fotos.html – Página da galeria de imagens
+├── index.html – Página inicial
+├── contato.html – Página de contato
+├── bio.html – Página de biografia
+├── script.js – Arquivo JavaScript para interatividade
+└── styles.css – Arquivo CSS principal
 
- ----
+yaml
+Copy code
 
-O que foi praticado:
+---
 
-- HTML
-Criação de uma estrutura semântica de página.
-Uso de elementos como nav e section para organizar o conteúdo.
+### O que foi praticado
 
-- CSS
-Criação de layouts responsivos com Grid ou Flexbox.
-Aplicação de estilizações dinâmicas com pseudo-classes como hover.
-Utilização de media queries para adaptar o design.
+- **HTML**  
+  - Criação de estrutura semântica com `<nav>` e `<section>`  
+- **CSS**  
+  - Layouts responsivos com Grid e Flexbox  
+  - Efeitos dinâmicos com pseudo-classes (`:hover`)  
+  - Media queries para adaptar o design  
+- **JavaScript**  
+  - Manipulação do DOM para adicionar/remover elementos  
+  - Eventos para interatividade (ex: carregar mais imagens ao clicar)  
 
-- JavaScript
-Manipulação do DOM para adicionar ou remover elementos da galeria.
-Uso de eventos para adicionar interatividade (como carregar mais imagens ao clicar no botão).
+---
 
- 🌐 Deploy
-A aplicação está online no Vercel:
+## 🌐 Deploy
 
-🔗[Ver site no Vercel](https://fotografias-git-main-bianca-sobrals-projects.vercel.app)
+A aplicação está online no Vercel:  
+[🔗 Ver site no Vercel](https://fotografias-git-main-bianca-sobrals-projects.vercel.app)
 
+---
 
-⭐ Funcionalidades
+## ⭐ Funcionalidades
 
-Exibição de imagens de forma organizada e responsiva.
+- Exibição de imagens de forma organizada e responsiva  
+- Modal ou destaque de imagens ao clicar  
+- Design e cores impactantes com efeitos de hover suaves  
+- Compatível com desktops e notebooks  
+- Estrutura modular que facilita futuras atualizações  
 
-Modal ou destaque de imagens ao clicar.
-
-Design e cores impactantes, com efeitos de hover suaves.
-
-Compatível com desktops e notebooks.
-
-Estrutura modular para fácil manutenção.
-
-----
+---
 
 ## 💻 Sobre a Desenvolvedora
 
@@ -83,10 +81,10 @@ Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedora Front-end
 
 Apaixonada por criar **interfaces limpas, interativas e funcionais**, com foco em **UI/UX e soluções web modernas**.  
 
-- 🌐 GitHub: [https://github.com/thebiancascript](https://github.com/thebiancascript)  
-- 💼 LinkedIn: [https://www.linkedin.com/in/bsobral0327/](https://www.linkedin.com/in/bsobral0327/)  
-- 📧 E-mail: [biancaferreirasobral@gmail.com](mailto:bianca.sobral0327@gmail.com)
-  
+- 🌐 GitHub: [github.com/thebiancascript](https://github.com/thebiancascript)  
+- 💼 LinkedIn: [linkedin.com/in/bsobral0327](https://www.linkedin.com/in/bsobral0327/)  
+- 📧 E-mail: [biancaferreirasobral@gmail.com](mailto:biancaferreirasobral@gmail.com)
+
 ---
 
 📄 Licença
