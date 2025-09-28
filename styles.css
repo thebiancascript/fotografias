@@ -1,0 +1,247 @@
+@import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300..900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+  --background: rgb(0, 0, 0);
+  --fontSecond: rgb(255, 255, 255);
+  --fontFirst: rgb(241, 102, 2);
+  font-size: 17px;
+}
+
+
+body {
+  font-family: "Darker Grotesque", serif;
+  background-color: var(--background);
+  color: var(--fontFirst);
+  font-weight: 400;
+}
+li {
+  list-style: none;
+}
+h1{
+  font-size: 2rem;
+}
+a{
+  color: var(--fontFirst);
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+a:hover {
+  font-weight: bold;
+}
+
+.container {
+  display: flex;
+}
+.navbar {
+  width: 20vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.social-icons {
+display: flex;
+justify-content: space-between;
+transition: transform 0.3s; /* efeito ao passar o mouse */
+width: 100%;
+}
+
+.icons {
+    font-size: 2rem;
+    transition: transform 0.3s; /* animação suave ao passar o mouse */
+}
+
+/* efeito ao passar o mouse */
+.icons:hover {
+    transform: scale(1.1);
+    color: rgb(58, 85, 53)
+}
+
+.gallery {
+  width: 80vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url(./assets/billy-freeman-Gyky7D7gAoM-unsplash.jpg);
+  background-size: cover;
+  color: var(--fontSecond);
+
+  /* fundo com overlay semi-transparente */
+  background: 
+    linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), /* overlay preto 50% */
+    url(./assets/billy-freeman-Gyky7D7gAoM-unsplash.jpg);
+  background-size: cover;
+  background-position: center;
+  color: var(--fontSecond);
+  padding: 30px; /* opcional para espaçamento interno */
+}
+
+.gallery-title {
+  font-weight: 500;
+  font-size: 2rem;
+  line-height: 1.8;
+  padding: 30px;
+}
+.btn-more{
+  color: var(--fontSecond);
+  font-weight: bold;
+}
+
+.gallery-description { 
+  width: 40%;
+  font-size: 2rem;
+  text-align: center;
+}
+.photo-gallery {
+  text-align: center;
+  width: 80vw;
+}
+.photo-gallery-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  justify-content: center;
+}
+
+.gallery-item {
+  flex: 1 0 calc(33% - 5px);
+  max-width: calc(33% - 5px);
+  overflow: hidden;
+  height: 40vh;
+}
+.gallery-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.wide {
+  flex: 1 0 calc(66% - 5px);
+  max-width: calc(66% - 5px);
+
+}
+.gallery-item:hover img {
+  transform: scale(1.05);
+}
+.btn-load {
+  background-color: grey;
+  padding: 10px 20px;
+  margin-top: 20px;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#load-more {
+  display: block;
+  margin: 30px auto;        /* centraliza horizontalmente e dá espaçamento */
+  padding: 12px 25px;       /* aumenta o tamanho do botão */
+  background-color: #f16602; /* cor principal laranja do seu tema */
+  color: #fff;               /* texto branco */
+  font-size: 0.8rem;         /* tamanho da fonte */
+  font-weight: bold;
+  border: none;              /* remove borda padrão */
+  border-radius: 8px;        /* cantos arredondados */
+  cursor: pointer;           /* muda o cursor ao passar por cima */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2); /* sombra leve */
+  transition: all 0.3s ease; /* animação suave */
+}
+
+#load-more:hover {
+  background-color: #d35400; /* cor um pouco mais escura no hover */
+  transform: translateY(-2px); /* efeito de "levitar" */
+  box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+}
+
+/* Toggle no canto superior direito */
+/* Toggle no canto superior direito */
+.theme-switch-wrapper {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 1000;
+}
+
+.theme-switch {
+  display: inline-block;
+  height: 30px;
+  position: relative;
+  width: 60px;
+}
+
+.theme-switch input {
+  display: none;
+}
+
+.slider {
+  background-color: #ccc;
+  bottom: 0;
+  cursor: pointer;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transition: 0.4s;
+  border-radius: 34px;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 22px;
+  width: 22px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  transition: 0.4s;
+  border-radius: 50%;
+}
+
+input:checked + .slider {
+  background-color: #666;
+}
+
+input:checked + .slider:before {
+  transform: translateX(30px);
+}
+
+/* Modo escuro */
+body.dark-mode {
+  --background: #121212;
+  --fontSecond: #f5f5f5;
+  --fontFirst: #f5f5f5;
+  background-color: var(--background);
+  color: var(--fontFirst);
+}
+body.dark-mode a {
+  color: var(--fontFirst);
+}
+body.dark-mode .navbar {
+  background-color: #1e1e1e;
+}
+body.dark-mode .social-icons .icons {
+  color: var(--fontFirst);
+}
+
+.footer {    /* centraliza o texto */
+  padding: 25px;            /* espaçamento */
+  background-color: var(--background); /* usa a cor de fundo atual */
+  color: var(--fontSecond);          /* cor da fonte atual */
+  font-size: 0.9rem;
+  margin-top: 30px;
+  position: fixed;            /* fica sempre no fundo da tela */
+  bottom: 0;
+  width: 100%;
+  z-index: 500;
+}
+
+.footer strong {
+  color: var(--fontFirst);    /* destaque para o seu nome */
+}
