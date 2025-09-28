@@ -41,23 +41,23 @@ fotografias/
 
 ## O que você foi praticado:
 
-HTML
+- HTML
 Criação de uma estrutura semântica de página.
 Uso de elementos como nav e section para organizar o conteúdo.
 
-CSS
+- CSS
 Criação de layouts responsivos com Grid ou Flexbox.
 Aplicação de estilizações dinâmicas com pseudo-classes como hover.
 Utilização de media queries para adaptar o design.
 
-JavaScript
+- JavaScript
 Manipulação do DOM para adicionar ou remover elementos da galeria.
 Uso de eventos para adicionar interatividade (como carregar mais imagens ao clicar no botão).
 
 ## 🌐 Deploy
 A aplicação está online no Vercel:
 
-🔗 Ver site
+🔗 [Ver site no Vercel](https://fotografias-git-main-bianca-sobrals-projects.vercel.app)
 
 📸 Capturas de Tela
 Página inicial da galeria
