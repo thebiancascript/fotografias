@@ -1,83 +1,61 @@
-📸 Fotografias
+FOTOGRAFIAS 📸
 
-Uma galeria de imagens interativa, desenvolvida com HTML, CSS e JavaScript, com foco em UI/UX, design minimalista e experiência do usuário.
-Projeto de portfólio da Bianca Sobral, demonstrando habilidades avançadas em front-end, interatividade e design responsivo.
+Uma galeria de imagens interativa, desenvolvida com HTML, CSS e JavaScript, focada em design minimalista, responsivo e experiência do usuário.
 
-🌐 Tecnologias e Ferramentas
+🚀 Tecnologias Utilizadas
 
+HTML5 – Estrutura semântica e organizada para melhor acessibilidade.
 
+CSS3 – Estilização responsiva e visual clean.
 
+JavaScript – Interatividade, modais e efeitos de destaque nas imagens.
 
+Vercel – Deploy contínuo da aplicação online.
 
+📦 Instalação
 
-
-
-✨ Funcionalidades
-
-🖼 Galeria Responsiva – Imagens organizadas e dimensionadas para qualquer dispositivo
-
-💎 Interatividade com JavaScript – Modal, zoom e destaque de imagens
-
-⚡ Efeitos de Hover e Animações Suaves – Experiência agradável para o usuário
-
-🗂 Estrutura Modular e Limpa – Fácil manutenção e escalabilidade
-
-🎬 Demonstração ao Vivo
-
-🔗 Visualizar Projeto na Vercel
-
-🚀 Como Executar
-
-Clone o repositório:
+Clone o repositório e abra no navegador:
 
 git clone https://github.com/thebiancascript/fotografias.git
-
-
-Entre na pasta:
-
 cd fotografias
 
+🧪 Desenvolvimento
 
-Abra index.html em qualquer navegador moderno.
+Como é um projeto front-end puro, basta abrir index.html no navegador para ver a galeria funcionando.
 
-💡 Recomendo Chrome, Edge ou Firefox para melhor desempenho.
+💡 Recomenda-se usar navegadores atualizados, como Chrome, Edge ou Firefox, para melhor performance.
 
-🗂 Estrutura do Projeto
+🛠️ Estrutura de Diretórios
 fotografias/
-├── assets/           # Imagens e recursos estáticos
-├── fotos.html        # Galeria de imagens
-├── index.html        # Página inicial
-├── contato.html      # Página de contato
-├── bio.html          # Página de biografia
-├── script.js         # Arquivo JavaScript
-└── styles.css        # Arquivo CSS principal
+├── assets/           – Imagens e recursos estáticos
+├── fotos.html        – Página da galeria de imagens
+├── index.html        – Página inicial
+├── contato.html      – Página de contato
+├── bio.html          – Página de biografia
+├── script.js         – Arquivo JavaScript para interatividade
+└── styles.css        – Arquivo CSS principal
 
-🏆 Funcionalidades Avançadas
-🔹 Funcionalidade	✨ Descrição
-Modal de Imagem	Clique para ampliar imagens com efeito suave
-Efeitos de Hover	Animações discretas para melhor interação visual
-Layout Responsivo	Ajuste automático para diferentes tamanhos de tela
-Estrutura Modular	Organização para fácil manutenção e escalabilidade
-🤝 Contribuição
+🌐 Deploy
 
-Este projeto é individual, mas contribuições são bem-vindas!
+A aplicação está online no Vercel:
 
-Abra uma issue para reportar bugs ou melhorias
+🔗 Ver site
 
-Envie um pull request com novas funcionalidades ou ajustes de design
+📸 Capturas de Tela
+Página inicial da galeria
 
-📄 Licença
+Página de detalhes ou destaque das imagens
 
-MIT License © 2025 Bianca Sobral
-Veja o arquivo LICENSE
- para detalhes.
+Página de contato / biografia
 
-💻 Sobre a Desenvolvedora
+⭐ Funcionalidades
 
-Bianca Sobral – Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedora Front-end
+Exibição de imagens de forma organizada e responsiva.
 
-Apaixonada por criar interfaces limpas, interativas e funcionais, com foco em UI/UX e soluções web modernas.
+Modal ou destaque de imagens ao clicar.
 
-🌐 GitHub
+Design minimalista e clean, com efeitos de hover suaves.
 
-💼 LinkedIn
+Compatível com desktops, notebooks e dispositivos móveis.
+
+Estrutura modular para fácil manutenção.
