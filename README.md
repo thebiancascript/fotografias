@@ -45,7 +45,8 @@ fotografias/
 └── styles.css        – Arquivo CSS principal
 🌐 Deploy
 A aplicação está online no Vercel:
-Ver site
+
+🔗 Ver site
 
 📸 Capturas de Tela
 Página inicial da galeria
@@ -77,5 +78,5 @@ Apaixonada por criar interfaces limpas, interativas e funcionais, com foco em UI
 
 📧 E-mail
 
-markdown
-Copy code
+
+
