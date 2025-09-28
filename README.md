@@ -21,17 +21,11 @@ A parte responsiva ainda não está totalmente implementada; inicialmente, o foc
 
 ---
 
-## 📦 Sobre a Instalação
+## 📦 Sobre o projeto
 
-Clone o repositório e abra no navegador:
-
-bash
-git clone https://github.com/thebiancascript/fotografias.git
-cd fotografias
-🧪 Desenvolvimento
-Como é um projeto front-end puro, basta abrir index.html no navegador para ver a galeria funcionando.
-
-💡 Recomenda-se usar navegadores atualizados, como Chrome, Edge ou Firefox, para melhor performance.
+- index.html para a estrutura da página.
+- styles.css para a estilização.
+- script.js para o comportamento dinâmico.
 
 🛠️ Estrutura de Diretórios
 text
@@ -44,7 +38,23 @@ fotografias/
 ├── bio.html          – Página de biografia
 ├── script.js         – Arquivo JavaScript para interatividade
 └── styles.css        – Arquivo CSS principal
-🌐 Deploy
+
+## O que você foi praticado:
+
+HTML
+Criação de uma estrutura semântica de página.
+Uso de elementos como <nav> e <section> para organizar o conteúdo.
+
+CSS
+Criação de layouts responsivos com Grid ou Flexbox.
+Aplicação de estilizações dinâmicas com pseudo-classes como hover.
+Utilização de media queries para adaptar o design.
+
+JavaScript
+Manipulação do DOM para adicionar ou remover elementos da galeria.
+Uso de eventos para adicionar interatividade (como carregar mais imagens ao clicar no botão).
+
+## 🌐 Deploy
 A aplicação está online no Vercel:
 
 🔗 Ver site
@@ -79,6 +89,8 @@ Apaixonada por criar **interfaces limpas, interativas e funcionais**, com foco e
 - 🌐 GitHub: [https://github.com/thebiancascript](https://github.com/thebiancascript)  
 - 💼 LinkedIn: [https://www.linkedin.com/in/bsobral0327/](https://www.linkedin.com/in/bsobral0327/)  
 - 📧 E-mail: [biancaferreirasobral@gmail.com](mailto:bianca.sobral0327@gmail.com)
+  
+---
 
 📄 Licença
 
