@@ -5,9 +5,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Vercel](https://img.shields.io/badge/deploy-vercel-000?style=flat&logo=vercel)
 
-Uma galeria de imagens interativa, desenvolvida com **HTML, CSS e JavaScript**, focada em **design minimalista, responsivo e experiência do usuário**.  
-
-OBS: A galeria é responsiva, então a aparência pode variar dependendo do dispositivo usado: computador, notebook ou celular.  
+Uma galeria de imagens interativa, desenvolvida com HTML, CSS e JavaScript.
+Este mini projeto foi criado por mim, inspirado nas instruções do Codente.io, com implementações do meu gosto e melhorias personalizadas para tornar a interface mais intuitiva, agradável e fácil de usar.
+O projeto se destaca pela experiência visual impactante, com cores vibrantes, efeitos de hover suaves e uma estrutura modular que facilita futuras atualizações. Utilizei meus conhecimentos e minha personalidade para dar vida ao visual do site, exibindo fotografias que foram tiradas por mim.
+A parte responsiva ainda não está totalmente implementada; inicialmente, o foco foi garantir que a versão desktop funcionasse corretamente e avaliar como o layout se comportaria em diferentes tamanhos de tela.
 
 ---
 
@@ -20,22 +21,11 @@ OBS: A galeria é responsiva, então a aparência pode variar dependendo do disp
 
 ---
 
-## 💻 Sobre a Desenvolvedora
-
-**Bianca Sobral**  
-Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedora Front-end  
-
-Apaixonada por criar **interfaces limpas, interativas e funcionais**, com foco em **UI/UX e soluções web modernas**.  
-
-- 🌐 GitHub: [https://github.com/thebiancascript](https://github.com/thebiancascript)  
-- 💼 LinkedIn: [https://www.linkedin.com/in/bsobral0327/](https://www.linkedin.com/in/bsobral0327/)  
-- 📧 E-mail: [biancaferreirasobral@gmail.com](mailto:bianca.sobral0327@gmail.com)
-
 ## 📦 Sobre a Instalação
 
 Clone o repositório e abra no navegador:
 
-```bash
+bash
 git clone https://github.com/thebiancascript/fotografias.git
 cd fotografias
 🧪 Desenvolvimento
@@ -77,6 +67,7 @@ Compatível com desktops, notebooks e dispositivos móveis.
 
 Estrutura modular para fácil manutenção.
 
+----
 
 ## 💻 Sobre a Desenvolvedora
 
@@ -87,4 +78,8 @@ Apaixonada por criar **interfaces limpas, interativas e funcionais**, com foco e
 
 - 🌐 GitHub: [https://github.com/thebiancascript](https://github.com/thebiancascript)  
 - 💼 LinkedIn: [https://www.linkedin.com/in/bsobral0327/](https://www.linkedin.com/in/bsobral0327/)  
-- 📧 E-mail: [bianca.sobral0327@gmail.com](mailto:bianca.sobral0327@gmail.com)
+- 📧 E-mail: [biancaferreirasobral@gmail.com](mailto:bianca.sobral0327@gmail.com)
+
+📄 Licença
+
+MIT License © 2025 Bianca Sobral
