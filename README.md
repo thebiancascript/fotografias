@@ -39,7 +39,7 @@ fotografias/
 ├── script.js         – Arquivo JavaScript para interatividade
 └── styles.css        – Arquivo CSS principal
 
-## O que foi praticado:
+ O que foi praticado:
 
 - HTML
 Criação de uma estrutura semântica de página.
