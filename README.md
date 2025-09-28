@@ -4,13 +4,10 @@ Uma galeria de imagens interativa, desenvolvida com HTML, CSS e JavaScript, foca
 
 🚀 Tecnologias Utilizadas
 
-HTML5 – Estrutura semântica e organizada para melhor acessibilidade.
-
-CSS3 – Estilização responsiva e visual clean.
-
-JavaScript – Interatividade, modais e efeitos de destaque nas imagens.
-
-Vercel – Deploy contínuo da aplicação online.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Vercel](https://img.shields.io/badge/deploy-vercel-000?style=flat&logo=vercel)
 
 ----
 
