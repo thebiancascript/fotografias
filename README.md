@@ -66,17 +66,15 @@ Compatível com desktops, notebooks e dispositivos móveis.
 
 Estrutura modular para fácil manutenção.
 
-💻 Sobre a Desenvolvedora
-Bianca Sobral
-Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedora Front-end
+----
 
-Apaixonada por criar interfaces limpas, interativas e funcionais, com foco em UI/UX e soluções web modernas.
+## 💻 Sobre a Desenvolvedora
 
-🌐 GitHub
+**Bianca Sobral**  
+Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedora Front-end  
 
-💼 LinkedIn
+Apaixonada por criar **interfaces limpas, interativas e funcionais**, com foco em **UI/UX e soluções web modernas**.  
 
-📧 E-mail
-
-
-
+- 🌐 GitHub: [https://github.com/thebiancascript](https://github.com/thebiancascript)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/bsobral0327/](https://www.linkedin.com/in/bsobral0327/)  
+- 📧 E-mail: [bianca.sobral0327@gmail.com](mailto:bianca.sobral0327@gmail.com)
