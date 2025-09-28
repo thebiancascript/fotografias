@@ -55,26 +55,21 @@ Utilização de media queries para adaptar o design.
 Manipulação do DOM para adicionar ou remover elementos da galeria.
 Uso de eventos para adicionar interatividade (como carregar mais imagens ao clicar no botão).
 
-## 🌐 Deploy
+ 🌐 Deploy
 A aplicação está online no Vercel:
 
 🔗 [Ver site no Vercel](https://fotografias-git-main-bianca-sobrals-projects.vercel.app)
 
-📸 Capturas de Tela
-Página inicial da galeria
-
-Página de detalhes ou destaque das imagens
-
-Página de contato / biografia
 
 ⭐ Funcionalidades
+
 Exibição de imagens de forma organizada e responsiva.
 
 Modal ou destaque de imagens ao clicar.
 
-Design minimalista e clean, com efeitos de hover suaves.
+Design e cores impactantes, com efeitos de hover suaves.
 
-Compatível com desktops, notebooks e dispositivos móveis.
+Compatível com desktops e notebooks.
 
 Estrutura modular para fácil manutenção.
 
