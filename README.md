@@ -20,7 +20,18 @@ OBS: A galeria é responsiva, então a aparência pode variar dependendo do disp
 
 ---
 
-## 📦 Instalação
+## 💻 Sobre a Desenvolvedora
+
+**Bianca Sobral**  
+Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedora Front-end  
+
+Apaixonada por criar **interfaces limpas, interativas e funcionais**, com foco em **UI/UX e soluções web modernas**.  
+
+- 🌐 GitHub: [https://github.com/thebiancascript](https://github.com/thebiancascript)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/bsobral0327/](https://www.linkedin.com/in/bsobral0327/)  
+- 📧 E-mail: [bianca.sobral0327@gmail.com](mailto:bianca.sobral0327@gmail.com)
+
+## 📦 Sobre a Instalação
 
 Clone o repositório e abra no navegador:
 
@@ -66,7 +77,6 @@ Compatível com desktops, notebooks e dispositivos móveis.
 
 Estrutura modular para fácil manutenção.
 
-----
 
 ## 💻 Sobre a Desenvolvedora
 
