@@ -78,7 +78,7 @@ Estrutura modular para fácil manutenção.
 
 ## 💻 Sobre a Desenvolvedora
 
-**Bianca Sobral**  
+```bash**Bianca Sobral**  
 Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedora Front-end  
 
 Apaixonada por criar **interfaces limpas, interativas e funcionais**, com foco em **UI/UX e soluções web modernas**.  
