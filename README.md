@@ -78,6 +78,6 @@ Apaixonada por criar interfaces limpas, interativas e funcionais, com foco em UI
 
 🌐 GitHub
 
-💼 LinkedIn
+💼 LinkedIn (https://www.linkedin.com/in/bsobral0327/)
 
 📧 E-mail
