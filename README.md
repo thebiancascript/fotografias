@@ -29,7 +29,7 @@ Apaixonada por criar **interfaces limpas, interativas e funcionais**, com foco e
 
 - 🌐 GitHub: [https://github.com/thebiancascript](https://github.com/thebiancascript)  
 - 💼 LinkedIn: [https://www.linkedin.com/in/bsobral0327/](https://www.linkedin.com/in/bsobral0327/)  
-- 📧 E-mail: [bianca.sobral0327@gmail.com](mailto:bianca.sobral0327@gmail.com)
+- 📧 E-mail: [biancaferreirasobral@gmail.com](mailto:bianca.sobral0327@gmail.com)
 
 ## 📦 Sobre a Instalação
 
