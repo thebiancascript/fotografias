@@ -1,4 +1,4 @@
-Fotografias
+**Fotografias
 
 🎨 Mini projeto: Galeria de Imagens do Codante.io
 
@@ -17,3 +17,4 @@ JavaScript — Interatividade e manipulação dinâmica de elementos.
 
 Você pode ver o projeto funcionando ao vivo:
 🔗 Visualizar na Vercel
+**
