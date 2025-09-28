@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Vercel](https://img.shields.io/badge/deploy-vercel-000?style=flat&logo=vercel)
 
-```bash Uma galeria de imagens interativa, desenvolvida com HTML, CSS e JavaScript.
+Uma galeria de imagens interativa, desenvolvida com HTML, CSS e JavaScript.
 Este mini projeto foi criado por mim, inspirado nas instruções do Codente.io, com implementações do meu gosto e melhorias personalizadas para tornar a interface mais intuitiva, agradável e fácil de usar.
 O projeto se destaca pela experiência visual impactante, com cores vibrantes, efeitos de hover suaves e uma estrutura modular que facilita futuras atualizações. Utilizei meus conhecimentos e minha personalidade para dar vida ao visual do site, exibindo fotografias que foram tiradas por mim.
 A parte responsiva ainda não está totalmente implementada; inicialmente, o foco foi garantir que a versão desktop funcionasse corretamente e avaliar como o layout se comportaria em diferentes tamanhos de tela.
