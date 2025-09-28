@@ -12,6 +12,8 @@ JavaScript – Interatividade, modais e efeitos de destaque nas imagens.
 
 Vercel – Deploy contínuo da aplicação online.
 
+----
+
 📦 Instalação
 
 Clone o repositório e abra no navegador:
