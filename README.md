@@ -28,7 +28,7 @@ A parte responsiva ainda não está totalmente implementada; inicialmente, o foc
 - styles.css para a estilização.
 - script.js para o comportamento dinâmico.
 
-```bash🛠️ Estrutura de Diretórios
+🛠️ Estrutura de Diretórios
 
 fotografias/
 ├── assets/           – Imagens e recursos estáticos
